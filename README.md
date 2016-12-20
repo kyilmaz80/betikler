@@ -1,0 +1,2 @@
+# betikler
+Yararlı betikler
